@@ -1,4 +1,4 @@
-# Aaron Climate Counter
+# Conference Travel Carbon Calculator
 
 available on:
 https://cloudsustainably.github.io/conf-travel-carbon-calc
