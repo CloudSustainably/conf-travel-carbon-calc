@@ -181,7 +181,7 @@ function App() {
           <img alt="logo" src="logo.png" style={{
             display: "inline-block",
             verticalAlign: "middle",
-            width: "200px",
+            width: "400px",
           }} />
           {/* <h1 className="company-name"></h1> */}
         </div>
