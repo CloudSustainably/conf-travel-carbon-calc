@@ -46,4 +46,4 @@ You can then copy the contents of this to your web server or to AWS S3.
 
 ## Setup
 
-The url must be whitelisted in the google API
+A Google maps API key (created from https://console.cloud.google.com/apis/credentials) must be placed in `settings.yaml` and the url must be whitelisted in the google API settings
