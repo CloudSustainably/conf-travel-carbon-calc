@@ -1,7 +1,7 @@
 # Aaron Climate Counter
 
 available on:
-https://tomgb.github.io/aaron-climate-counter/
+https://cloudsustainably.github.io/conf-travel-carbon-calc
 
 responses recorded:
 https://docs.google.com/spreadsheets/d/1SM8IlYevP5Iaomzpy-cPImRRTIoMX8fjs3xGWQy5XCM/edit?usp=sharing
