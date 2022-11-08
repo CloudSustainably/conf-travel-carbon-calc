@@ -177,15 +177,7 @@ function App() {
   return (
     <div className="App" style={{ textAlign: "center" }}>
       <header className="App-header">
-        <div style={{ marginBottom: "auto" }}>
-          <img alt="logo" src="logo.png" style={{
-            display: "inline-block",
-            verticalAlign: "middle",
-            width: "400px",
-          }} />
-          {/* <h1 className="company-name"></h1> */}
-        </div>
-
+        <img className="App-logo" alt="logo" src="logo.png" />
         <div style={{ marginBottom: "auto" }}>
           <Questions />
         </div>
