@@ -178,11 +178,11 @@ function App() {
     <div className="App" style={{ textAlign: "center" }}>
       <header className="App-header">
         <div style={{ marginBottom: "auto" }}>
-          <img alt="embue-logo" src="embue.webp" style={{
+          <img alt="logo" src="logo.png" style={{
             display: "inline-block",
             verticalAlign: "middle"
           }} />
-          <h1 className="company-name">Embue</h1>
+          {/* <h1 className="company-name"></h1> */}
         </div>
 
         <div style={{ marginBottom: "auto" }}>
