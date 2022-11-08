@@ -180,7 +180,8 @@ function App() {
         <div style={{ marginBottom: "auto" }}>
           <img alt="logo" src="logo.png" style={{
             display: "inline-block",
-            verticalAlign: "middle"
+            verticalAlign: "middle",
+            width: "200px",
           }} />
           {/* <h1 className="company-name"></h1> */}
         </div>
