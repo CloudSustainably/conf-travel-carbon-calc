@@ -24,7 +24,7 @@ run the project:
 
 `yarn start`
 
-this will run a server locally that you can access on 
+this will run a server locally that you can access on
 
 http://localhost:3000
 
@@ -32,7 +32,7 @@ Changes you make will be automatically rendered in the browser.
 
 Changes to the `settings.yaml` will only take effect once you stop and start the server
 
-## Deply
+## Deploy
 
 Github is configured to automatically build and deploy the app to github pages when changes are made on the `main` branch
 
