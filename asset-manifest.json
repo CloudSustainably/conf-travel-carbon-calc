@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/conf-travel-carbon-calc/static/css/main.e4aa09ea.css",
-    "main.js": "/conf-travel-carbon-calc/static/js/main.af46526a.js",
+    "main.css": "/conf-travel-carbon-calc/static/css/main.c798bc9a.css",
+    "main.js": "/conf-travel-carbon-calc/static/js/main.66281640.js",
     "static/js/787.31cf5d9c.chunk.js": "/conf-travel-carbon-calc/static/js/787.31cf5d9c.chunk.js",
     "index.html": "/conf-travel-carbon-calc/index.html",
-    "main.e4aa09ea.css.map": "/conf-travel-carbon-calc/static/css/main.e4aa09ea.css.map",
-    "main.af46526a.js.map": "/conf-travel-carbon-calc/static/js/main.af46526a.js.map",
+    "main.c798bc9a.css.map": "/conf-travel-carbon-calc/static/css/main.c798bc9a.css.map",
+    "main.66281640.js.map": "/conf-travel-carbon-calc/static/js/main.66281640.js.map",
     "787.31cf5d9c.chunk.js.map": "/conf-travel-carbon-calc/static/js/787.31cf5d9c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4aa09ea.css",
-    "static/js/main.af46526a.js"
+    "static/css/main.c798bc9a.css",
+    "static/js/main.66281640.js"
   ]
 }
