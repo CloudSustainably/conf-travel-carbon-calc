@@ -9,7 +9,7 @@ conferenceLocation: Leonardo Royal London Tower Bridge
 multiplier: 2
 
 # Carbon is measured in grams of carbon per km
-# Ask tom to change the label names as they are currently linked with the icons
+# The label names as they are currently linked with the icons and therefore can't be changed without some programming
 
 modesOfTransport:
   - type: electric
@@ -34,3 +34,6 @@ transportQuestionText: What was your main mode of transport?
 
 resultText: You produced @carbon@ Kg of CO₂
 resultSubText: Thanks and enjoy the conference.
+
+# create an API key and whitelist the URL here: https://console.cloud.google.com/apis/credentials
+googleMapsApiKey: AIzaSyArtmVMKqxl-b4aVDDV6gCjDTQ8vOkY6dk
