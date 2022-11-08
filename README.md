@@ -8,6 +8,10 @@ responses recorded:
 
 https://docs.google.com/spreadsheets/d/1SM8IlYevP5Iaomzpy-cPImRRTIoMX8fjs3xGWQy5XCM/edit?usp=sharing
 
+## Config
+
+To change the values for the carbon calculator edit the values in the `/settings.yaml` file
+
 ## To run locally
 
 clone the repo:
