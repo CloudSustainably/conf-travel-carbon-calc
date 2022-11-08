@@ -4,7 +4,7 @@ import {LocationResult} from "../types";
 const Map = ({ startLocation, setLocation }: { startLocation: LocationResult, setLocation: (location: LocationResult) => Promise<void>}) => (
   <div style={{ maxWidth: "500px", width: "100%", height: "100px", display: "inline-block" }}>
     <GooglePlacesAutocomplete
-      apiKey="AIzaSyDj9Mt1pAsivlfxn1rjZVmlL7z1Z992xxI"
+      apiKey="AIzaSyArtmVMKqxl-b4aVDDV6gCjDTQ8vOkY6dk"
       selectProps={{
         value: startLocation,
         onChange: setLocation,
