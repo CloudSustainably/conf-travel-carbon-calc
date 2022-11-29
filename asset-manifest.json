@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/conf-travel-carbon-calc/static/css/main.c798bc9a.css",
-    "main.js": "/conf-travel-carbon-calc/static/js/main.5ad4f010.js",
+    "main.js": "/conf-travel-carbon-calc/static/js/main.6bea40ba.js",
     "static/js/787.31cf5d9c.chunk.js": "/conf-travel-carbon-calc/static/js/787.31cf5d9c.chunk.js",
     "index.html": "/conf-travel-carbon-calc/index.html",
     "main.c798bc9a.css.map": "/conf-travel-carbon-calc/static/css/main.c798bc9a.css.map",
-    "main.5ad4f010.js.map": "/conf-travel-carbon-calc/static/js/main.5ad4f010.js.map",
+    "main.6bea40ba.js.map": "/conf-travel-carbon-calc/static/js/main.6bea40ba.js.map",
     "787.31cf5d9c.chunk.js.map": "/conf-travel-carbon-calc/static/js/787.31cf5d9c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c798bc9a.css",
-    "static/js/main.5ad4f010.js"
+    "static/js/main.6bea40ba.js"
   ]
 }
